@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+}
+canvas{
+    border: 10px solid lightblue;
+    border-radius: 20px;
+    box-shadow: 5px 5px 25px lightblue;
+    margin-top: 70px;
+}
+#footer{
+    position: fixed;
+    bottom: 0px;
+    background-color: lightblue;
+    color: red;
+    width: 100%;
+    font-size: 24px;
+    box-shadow: 3px 7px 24px lightpink;
+}
+.header{
+    width: 100%;
+    margin-top: 0%;
+    font-size: 21px;
+    color: black;
+    font-weight: bold;
+}

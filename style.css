@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+}
+.b{
+    width:300px ;
+    border-radius: 20px;
+}
+#footer{
+    position: fixed;
+    bottom: 0px;
+    background-color: lightblue;
+    color: red;
+    width: 100%;
+    font-size: 24px;
+    box-shadow: 3px 7px 24px lightpink;
+}
